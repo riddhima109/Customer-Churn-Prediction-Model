@@ -15,7 +15,7 @@ This repository contains machine learning and deep learning models developed to 
 ### Data
 The dataset used in this project is the Telco Customer Churn dataset. It can be found in the datasets directory. This dataset includes customer data from a telecom company, where the main goal is to predict customer churn based on various features like monthly charges, tenure, and service type.
 
-[Datasheet for Telco Customer Churn Dataset](Docs/Datasheet for Telco-Customer-Churn): This datasheet provides detailed information about the motivations, composition, collection process, and pre-processing steps involved with the Telco Customer Churn dataset. It is essential for understanding the scope, limitations, and appropriate uses of the data.
+[Docs/Datasheet for Telco-Customer-Churn](https://github.com/riddhima109/Customer-Churn-Prediction-Model/blob/4e2ab028f38c6cf3bbb4fa1220dd482bf3f08f5e/Docs/Datasheet%20for%20Telco-Customer-Churn): This datasheet provides detailed information about the motivations, composition, collection process, and pre-processing steps involved with the Telco Customer Churn dataset. It is essential for understanding the scope, limitations, and appropriate uses of the data.
 
 Models
 The models used include Random Forest, Logistic Regression, and Neural Networks. Random Forest was chosen for its robustness against overfitting, Logistic Regression for its efficacy in binary outcomes, and Neural Networks for their ability to model complex relationships in high-dimensional data.

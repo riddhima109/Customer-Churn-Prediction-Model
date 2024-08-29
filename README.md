@@ -37,47 +37,47 @@ The models used in this project include:
 
 Each algorithm was selected based on its strengths in addressing different aspects of the customer churn prediction problem, from managing complex data relationships to providing robust and interpretable predictions.
 
-##### Random Forest Classifier
+#### 1)Random Forest Classifier
 **Description:** Utilizes an ensemble learning technique for classification by combining multiple decision trees. Random Forest is robust against overfitting and performs well with large, high-dimensional datasets by averaging the predictions of individual trees to improve accuracy and stability.
 
 **Performance:** Detailed metrics, including accuracy, precision, recall, and F1-score, are documented in the Random Forest model card.
 
-##### Logistic Regression
+#### 2)Logistic Regression
 **Description:** A statistical model that estimates the probability of a binary outcome based on input features. It is effective for understanding how independent variables impact the probability of a binary result and provides clear, interpretable results.
 
 **Performance:** Metrics and evaluation results are available in the Logistic Regression model card.
 
-##### Decision Tree
+#### 3)Decision Tree
 **Description:** Implements a simple, tree-like model for classification or regression tasks. It splits the data into branches based on feature values, making it easy to understand and visualize the decision-making process.
 
 **Performance:** Evaluation details, including accuracy and interpretability, are available in the Decision Tree model card.
 
-##### Support Vector Machine (SVM)
+#### 4)Support Vector Machine (SVM)
 **Description:** A classification technique that finds the optimal hyperplane to separate different classes in a high-dimensional space. It is effective for problems with clear margins of separation and works well with both linear and non-linear data.
 
 **Performance:** Performance metrics, including accuracy and margin of separation, are documented in the SVM model card.
 
-##### K-Nearest Neighbors (KNN)
+#### 5)K-Nearest Neighbors (KNN)
 **Description:** A non-parametric classification algorithm that assigns a class to a sample based on the majority class among its nearest neighbors. It is simple to implement and effective for tasks where similarity between samples is key.
 
 **Performance:** Evaluation results, including accuracy and class prediction details, are available in the KNN model card.
 
-##### Deep Neural Network (DNN)
+#### 6)Deep Neural Network (DNN)
 **Description:** Utilizes a deep learning architecture with multiple hidden layers to model complex relationships in high-dimensional data. The fully connected layers capture intricate patterns in customer behavior.
 
 **Performance:** Evaluation results can be found in the Deep Neural Network model card.
 
-##### Recurrent Neural Network (RNN)
+#### 7)Recurrent Neural Network (RNN)
 **Description:** Designed to handle sequential data and capture temporal dependencies through its recurrent connections. It is suitable for tasks involving sequences, such as time series data.
 
 **Performance:** Metrics and evaluation details are documented in the RNN model card.
 
-##### Convolutional Neural Network (CNN)
+#### 8)Convolutional Neural Network (CNN)
 **Description:** Effective in extracting features from structured grid-like data, such as images, using convolutional layers to detect spatial hierarchies and patterns.
 
 **Performance:** Detailed performance metrics and results are available in the CNN model card.
 
-##### Transformer Model
+#### 9)Transformer Model
 **Description:** Leverages self-attention mechanisms to capture long-range dependencies and process sequences in parallel. It is particularly powerful for handling large-scale data and complex relationships.
 
 **Performance:** Evaluation results, including accuracy and ability to handle long-range dependencies, are documented in the Transformer model card.

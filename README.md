@@ -1,18 +1,21 @@
 # Customer Churn Prediction Model
 This repository contains machine learning and deep learning models developed to predict customer churn in a telecommunications company—the phenomenon where customers stop using a company's products or services over a given period.The goal of these models is to identify customers likely to churn so that proactive strategies can be employed to retain them. The project employs various algorithms on the Telco Customer Churn dataset to analyze customer behavior and transaction data, identifying key indicators of churn. Machine Learning Algorithms implemented include Random Forest Classifier, Logistic Regression, Decision Tree, SVM, and KNN.Deep Learning Algorithms implemented include Deep Neural Network, Recurrent Neural Netowrk-RNN, Convolutional Neural Network, Transformer Model. This project includes detailed Jupyter Notebooks focusing on each step of the process—from data preprocessing and exploratory data analysis to model training and evaluation.The goal is to develop a predictive model that can help businesses understand and mitigate customer churn, ultimately enhancing customer retention strategies.
 
-# Components of the Repository
--[Data](Datasets): Original dataset and preprocessed data files.
+## Components of the Repository
+->[Data](Datasets): Original dataset and preprocessed dataset files.
 
-Notebooks: Step-by-step Jupyter notebooks covering data preprocessing, exploratory data analysis, feature engineering, model training, hyperparameter tuning using Bayesian optimization, and model evaluation.
+->[Code-Models-Notebooks](Code-Models-Notebooks): Step-by-step Jupyter notebooks covering data preprocessing, exploratory data analysis, feature engineering, model training, hyperparameter tuning, and model evaluation.
 
-Model Card and Datasheet: Documentation providing details on model performance, usage, and dataset characteristics.
+->[Model Card and Datasheet(Docs)](Docs): Documentation providing details on model performance, usage, and dataset characteristics.
 
-Results: Visualizations and output files showcasing the analysis and outcomes of the models.
-Data
-The dataset used in this project is the Telco Customer Churn dataset. It can be found in the data directory. This dataset includes customer data from a telecom company, where the main goal is to predict customer churn based on various features like monthly charges, tenure, and service type.
+->[Graphs](Graphs): Visualizations and output files showcasing the analysis and outcomes of the models.
 
-Datasheet for Telco Customer Churn Dataset: This datasheet provides detailed information about the motivations, composition, collection process, and pre-processing steps involved with the Telco Customer Churn dataset. It is essential for understanding the scope, limitations, and appropriate uses of the data.
+->[Results](Results): The results help in understanding which features most significantly predict churn, such as tenure and monthly charges.
+
+### Data
+The dataset used in this project is the Telco Customer Churn dataset. It can be found in the datasets directory. This dataset includes customer data from a telecom company, where the main goal is to predict customer churn based on various features like monthly charges, tenure, and service type.
+
+[Datasheet for Telco Customer Churn Dataset](Docs/Datasheet for Telco-Customer-Churn): This datasheet provides detailed information about the motivations, composition, collection process, and pre-processing steps involved with the Telco Customer Churn dataset. It is essential for understanding the scope, limitations, and appropriate uses of the data.
 
 Models
 The models used include Random Forest, Logistic Regression, and Neural Networks. Random Forest was chosen for its robustness against overfitting, Logistic Regression for its efficacy in binary outcomes, and Neural Networks for their ability to model complex relationships in high-dimensional data.

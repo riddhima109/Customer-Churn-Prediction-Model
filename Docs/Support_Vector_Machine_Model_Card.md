@@ -1,4 +1,4 @@
-# Support Vector Machine (SVM) Model Card
+# Support Vector Machine (SVM) 
 ## Model Details
 **Model Name:** Customer Churn Prediction Model - SVM
 

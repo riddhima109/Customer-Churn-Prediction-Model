@@ -53,15 +53,15 @@ The SVM model utilizes a hyperplane to separate data points into different class
 ## Performance Metrics:
 The SVM model's performance is measured using various metrics calculated on a test dataset after training:
 
-Accuracy: 83%
+Accuracy: 80%
 
-Precision: 72%
+Precision: 71%
 
-Recall: 60%
+Recall: 46%
 
-F1-Score: 66%
+F1-Score: 56%
 
-AUC-ROC: 89%
+AUC-ROC: 84%
 
 **Evaluation:**
 **Confusion Matrix:** Provides insights into the model's classification accuracy by displaying counts of true positives, true negatives, false positives, and false negatives.
@@ -69,7 +69,8 @@ AUC-ROC: 89%
 **ROC Curve:** Demonstrates the trade-off between the true positive rate and the false positive rate, with an AUC of 0.89 indicating good performance.
 
 ## Performance Graph
-![image](https://github.com/user-attachments/assets/d636e67a-b76a-401d-8091-1f483ed39f21)
+![image](https://github.com/user-attachments/assets/1c9e77b1-e350-48b4-b927-91bc4a9c4be3)
+
 
 ## Limitations
 * SVMs can be computationally intensive, especially with large datasets and high-dimensional feature spaces.
@@ -96,5 +97,3 @@ While SVMs are effective in handling high-dimensional data and providing robust 
 ## Caveats and Recommendations
 * **Model Limitations:** SVMs may require substantial computational resources and parameter tuning. For complex datasets, exploring alternative models like Random Forests or Neural Networks might be beneficial.
 * **Usage Recommendations:** Suitable for scenarios requiring robust classification with high-dimensional data, but might need complementary models for a comprehensive analysis.
-
----

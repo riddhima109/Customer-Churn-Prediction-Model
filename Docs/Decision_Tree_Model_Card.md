@@ -87,12 +87,12 @@ Decision Trees are easy to interpret and visualize, but they can overfit trainin
 
 ## Deployment and Maintenance
 * **Deployment Strategy:**
- - Initial Deployment: The model is used to support decision-making for customer retention by identifying high-risk customers.
- - Maintenance: Regular updates and retraining with new data are recommended to ensure the model remains accurate and relevant.
+  - Initial Deployment: The model is used to support decision-making for customer retention by identifying high-risk customers.
+  - Maintenance: Regular updates and retraining with new data are recommended to ensure the model remains accurate and relevant.
 
 * **Model Monitoring:**
- - Performance Tracking: Continuous monitoring of model performance is necessary to detect and address any issues in prediction accuracy.
- - Ethical Monitoring: Regular reviews ensure that the model’s outputs remain fair and unbiased, with updates made as necessary.
+  - Performance Tracking: Continuous monitoring of model performance is necessary to detect and address any issues in prediction accuracy.
+  - Ethical Monitoring: Regular reviews ensure that the model’s outputs remain fair and unbiased, with updates made as necessary.
 
 ## Caveats and Recommendations
 * **Model Limitations:** Decision Trees can be sensitive to changes in the training data and may require tuning to avoid overfitting. For improved performance, consider using ensemble methods like Random Forests or Gradient Boosting.

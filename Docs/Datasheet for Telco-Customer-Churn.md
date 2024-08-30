@@ -2,6 +2,7 @@
 ## Motivation
 
    * **For what purpose was the dataset created?**
+
      -To analyze customer churn rates at a telecom company, understand key factors leading to customer attrition, and help develop strategies to retain customers.
   
    * **Who created the dataset and on behalf of which entity?**

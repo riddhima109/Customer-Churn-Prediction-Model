@@ -45,7 +45,7 @@ The Decision Tree model creates a tree-like structure where internal nodes repre
 #### Training Data:
 * Source: Kaggle's Telco Customer Churn dataset.
 * Composition: Includes customer demographics, service subscriptions, account status, and churn indicators.
-* Split: The data was divided into training (80%) and testing (20%) sets for model evaluation.
+* Split: The data was divided into training (70%) and testing (30%) sets for model evaluation.
 
 #### Evaluation Data:
 * Consistency: The same preprocessing pipeline was applied to the test set to ensure a reliable assessment of model performance.

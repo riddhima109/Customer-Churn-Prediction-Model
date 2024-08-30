@@ -1,9 +1,11 @@
 # Datasheet for Telco Customer Churn Dataset
 ## Motivation
-* **For what purpose was the dataset created?**
-To analyze customer churn rates at a telecom company, understand key factors leading to customer attrition, and help develop strategies to retain customers.
-Who created the dataset and on behalf of which entity?
-The dataset is typically created by the analytics team of the telecom company and is available on Kaggle for educational and research purposes.
+
+   * **For what purpose was the dataset created?**
+   **->** To analyze customer churn rates at a telecom company, understand key factors leading to customer attrition, and help develop strategies to retain customers.
+  
+   * **Who created the dataset and on behalf of which entity?**
+      **->**  The dataset is typically created by the analytics team of the telecom company and is available on Kaggle for educational and research purposes.
 Composition
 What do the instances that comprise the dataset represent?
 Each instance represents an individual customer, detailing their personal information, service details, and whether they have churned.

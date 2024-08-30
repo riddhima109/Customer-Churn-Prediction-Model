@@ -26,7 +26,7 @@
 ## Collection Process
 
    * **How was the data acquired?**
-    -The data was collected from the company's operational databases, reflecting customers' interactions and subscription details.
+     - The data was collected from the company's operational databases, reflecting customers' interactions and subscription details.
 
    * **What was the sampling strategy?**
      - The data appears to represent a comprehensive dataset of a particular period, not a sample.

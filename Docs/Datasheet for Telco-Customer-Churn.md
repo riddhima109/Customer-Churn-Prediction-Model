@@ -15,23 +15,26 @@
      - Each instance represents an individual customer, detailing their personal information, service details, and whether they have churned.
     
    * **How many instances are there?**
-   
-  - Approximately 7,043 customer records.
+     - Approximately 7,043 customer records.
     
    * **Is there any missing data?**
-
      -No
 
-Does the dataset contain confidential data?
-The dataset is anonymized, with no direct personal identifiers, but includes sensitive information related to customer demographics and services.
-Collection Process
-How was the data acquired?
-The data was collected from the company's operational databases, reflecting customers' interactions and subscription details.
-What was the sampling strategy?
-The data appears to represent a comprehensive dataset of a particular period, not a sample.
-Over what time frame was the data collected?
-The specific time frame isn't mentioned but likely covers several years up to 2020.
-Preprocessing/cleaning/labeling
+   * **Does the dataset contain confidential data?**
+     -The dataset is anonymized, with no direct personal identifiers, but includes sensitive information related to customer demographics and services.
+
+## Collection Process
+
+   * **How was the data acquired?**
+    -The data was collected from the company's operational databases, reflecting customers' interactions and subscription details.
+
+   * **What was the sampling strategy?**
+     -The data appears to represent a comprehensive dataset of a particular period, not a sample.
+
+   * **Over what time frame was the data collected?**
+     -The specific time frame isn't mentioned but likely covers several years up to 2020.
+
+## Preprocessing/cleaning/labeling
 Was any preprocessing/cleaning/labeling of the data done?
 For public use, preprocessing included converting data types and handling missing values, particularly in the 'Total Charges' field.
 Was the “raw” data saved in addition to the preprocessed/cleaned/labeled data?

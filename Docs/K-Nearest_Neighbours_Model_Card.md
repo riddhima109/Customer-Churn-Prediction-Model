@@ -1,10 +1,10 @@
 # K-Nearest Neighbors (KNN) Model Card
 ## Model Details
-**Model Name:** Customer Churn Prediction Model - KNN
+**Model Name:** Customer Churn Prediction Model 
 
 **Developer:** Riddhima Bansal
 
-**Model Date:** August 30, 2024
+**Model Date:** August 10, 2024
 
 **Model Version:** 1.0
 

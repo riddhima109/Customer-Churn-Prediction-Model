@@ -18,10 +18,10 @@
      - Approximately 7,043 customer records.
     
    * **Is there any missing data?**
-     -No
+     - No
 
    * **Does the dataset contain confidential data?**
-     -The dataset is anonymized, with no direct personal identifiers, but includes sensitive information related to customer demographics and services.
+     - The dataset is anonymized, with no direct personal identifiers, but includes sensitive information related to customer demographics and services.
 
 ## Collection Process
 

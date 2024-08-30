@@ -45,7 +45,7 @@ The KNN model classifies data points based on the majority class among the 'k' n
 #### Training Data:
 * Source: Kaggle's Telco Customer Churn dataset.
 * Composition: Contains data on customer demographics, service subscriptions, account status, and churn indicators.
-* Split: The data was partitioned into training (80%) and testing (20%) sets for performance evaluation.
+* Split: The data was partitioned into training (70%) and testing (30%) sets for performance evaluation.
 
 #### Evaluation Data:
 * Consistency: The same preprocessing procedures were applied to the test set to ensure reliable model evaluation.

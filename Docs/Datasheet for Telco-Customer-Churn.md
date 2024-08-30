@@ -13,11 +13,11 @@
 
    * **What do the instances that comprise the dataset represent?**
    
-    - Each instance represents an individual customer, detailing their personal information, service details, and whether they have churned.
+  - Each instance represents an individual customer, detailing their personal information, service details, and whether they have churned.
     
    * **How many instances are there?**
    
-    - Approximately 7,043 customer records.
+  - Approximately 7,043 customer records.
     
    * **Is there any missing data?**
 

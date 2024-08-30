@@ -1,7 +1,3 @@
-Here's a model card for a K-Nearest Neighbors (KNN) model for customer churn prediction:
-
----
-
 # K-Nearest Neighbors (KNN) Model Card
 ## Model Details
 **Model Name:** Customer Churn Prediction Model - KNN

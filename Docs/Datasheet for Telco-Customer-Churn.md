@@ -12,8 +12,7 @@
 ## Composition
 
    * **What do the instances that comprise the dataset represent?**
-   
-    - Each instance represents an individual customer, detailing their personal information, service details, and whether they have churned.
+     - Each instance represents an individual customer, detailing their personal information, service details, and whether they have churned.
     
    * **How many instances are there?**
    

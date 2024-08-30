@@ -7,8 +7,9 @@
   
    * **Who created the dataset and on behalf of which entity?**
 
-      **->**  The dataset is typically created by the analytics team of the telecom company and is available on Kaggle for educational and research purposes.
-Composition
+     - The dataset is typically created by the analytics team of the telecom company and is available on Kaggle for educational and research purposes.
+
+## Composition
 What do the instances that comprise the dataset represent?
 Each instance represents an individual customer, detailing their personal information, service details, and whether they have churned.
 How many instances are there?

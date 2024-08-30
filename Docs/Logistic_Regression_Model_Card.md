@@ -44,7 +44,7 @@ Feature Engineering:
 #### Training Data:
 * Source: Kaggle's Telco Customer Churn dataset.
 * Composition: Includes data on customer demographics, service subscriptions, account status, and churn indicators.
-* Split: The data was split into training (80%) and testing (20%) sets to evaluate model performance.
+* Split: The data was split into training (70%) and testing (30%) sets to evaluate model performance.
 
 #### Evaluation Data:
 * Consistency: The same preprocessing pipeline was applied to the test set to ensure consistency in model evaluation.

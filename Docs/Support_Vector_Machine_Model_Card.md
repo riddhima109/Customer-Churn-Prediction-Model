@@ -4,7 +4,7 @@
 
 **Developer:** Riddhima Bansal
 
-**Model Date:** August 30, 2024
+**Model Date:** August 10, 2024
 
 **Model Version:** 1.0
 

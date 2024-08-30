@@ -1,10 +1,15 @@
 # Logistic Regression Model Card
 ## Model Details
 **Model Name:** Customer Churn Prediction Model
+
 **Developer:** Riddhima Bansal
+
 **Model Date:** August 10, 2024
+
 **Model Version:** 1.0
+
 **Model Type:** Logistic Regression - Classification Model
+
 **Model Framework:** scikit-learn / sklearn
 
 ## Model Objective
@@ -17,8 +22,11 @@ This Logistic Regression model is developed to predict customer churn in a telec
 ## Model Input & Output
 * **Input:** Inputs to the Logistic Regression model include customer demographics, account status, service usage, and billing information, all of which are numerically encoded or categorized for model ingestion.
 * **Output:** The output is a binary indicator (0 or 1) where 1 indicates a prediction that the customer will churn and 0 indicates the customer will remain.
+
 Prediction: A binary classification where:
+
 1 = High risk of churn
+
 0 = Low or no risk of churn
   
 ## Model Architecture: 
@@ -45,14 +53,19 @@ Feature Engineering:
 The Logistic Regression model's performance is quantified through various metrics calculated on a test dataset after training:
 
 Accuracy: 81%
+
 Precision: 69%
+
 Recall: 55%
+
 F1-Score: 61%
+
 AUC-ROC: 86%
 
 **Evaluation:**
-Confusion Matrix: Provides insight into the model's classification accuracy by showing the counts of true positives, true negatives, false positives, and false negatives.
-ROC Curve: Illustrates the trade-off between the true positive rate and the false positive rate, with an AUC of 0.74 indicating moderate performance.
+**Confusion Matrix:** Provides insight into the model's classification accuracy by showing the counts of true positives, true negatives, false positives, and false negatives.
+
+**ROC Curve:** Illustrates the trade-off between the true positive rate and the false positive rate, with an AUC of 0.74 indicating moderate performance.
 
 ## Performance Graph
 ![image](https://github.com/user-attachments/assets/d636e67a-b76a-401d-8091-1f483ed39f21)
@@ -73,12 +86,12 @@ The simplicity of the model allows for quick iterations and is useful for baseli
 
 ## Deployment and Maintenance
 * **Deployment Strategy:**
-- Initial Deployment: The model is intended for use as a decision-support tool, helping customer relationship teams prioritize interventions.
-- Maintenance: Regular model retraining is advised as new customer data becomes available to ensure continued accuracy and relevance.
+ - Initial Deployment: The model is intended for use as a decision-support tool, helping customer relationship teams prioritize interventions.
+ - Maintenance: Regular model retraining is advised as new customer data becomes available to ensure continued accuracy and relevance.
 
 * **Model Monitoring:**
-- Performance Tracking: Continuous monitoring of model performance is essential to detect and mitigate any drift in prediction accuracy.
-- Ethical Monitoring: Ensure that the model’s outputs remain fair and unbiased over time, with updates made to address any issues.
+ - Performance Tracking: Continuous monitoring of model performance is essential to detect and mitigate any drift in prediction accuracy.
+ - Ethical Monitoring: Ensure that the model’s outputs remain fair and unbiased over time, with updates made to address any issues.
 ## Caveats and Recommendations
 * **Model Limitations:** Given the logistic regression’s limitations in handling non-linear relationships, it's advisable to explore more complex models if improvements in predictions are required.
 * **Usage Recommendations:** Ideal for use as a preliminary model to identify at-risk customers before applying more complex algorithms for deeper insights.

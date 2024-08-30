@@ -45,7 +45,7 @@ The SVM model utilizes a hyperplane to separate data points into different class
 #### Training Data:
 * Source: Kaggle's Telco Customer Churn dataset.
 * Composition: Includes customer demographics, service subscriptions, account status, and churn indicators.
-* Split: The data was divided into training (80%) and testing (20%) sets for model evaluation.
+* Split: The data was divided into training (70%) and testing (30%) sets for model evaluation.
 
 #### Evaluation Data:
 * Consistency: The same preprocessing pipeline was applied to the test set to ensure a fair assessment of model performance.

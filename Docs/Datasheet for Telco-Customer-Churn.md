@@ -10,12 +10,19 @@
      - The dataset is typically created by the analytics team of the telecom company and is available on Kaggle for educational and research purposes.
 
 ## Composition
-What do the instances that comprise the dataset represent?
-Each instance represents an individual customer, detailing their personal information, service details, and whether they have churned.
-How many instances are there?
-Approximately 7,043 customer records.
-Is there any missing data?
-Yes, some fields like Total Charges have missing data, particularly where tenure is zero.
+
+   * **What do the instances that comprise the dataset represent?**
+   
+    - Each instance represents an individual customer, detailing their personal information, service details, and whether they have churned.
+    
+   * **How many instances are there?**
+   
+    - Approximately 7,043 customer records.
+    
+   * **Is there any missing data?**
+
+     -No
+
 Does the dataset contain confidential data?
 The dataset is anonymized, with no direct personal identifiers, but includes sensitive information related to customer demographics and services.
 Collection Process

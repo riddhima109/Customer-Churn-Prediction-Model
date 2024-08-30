@@ -87,12 +87,12 @@ While SVMs are effective in handling high-dimensional data and providing robust 
 
 ## Deployment and Maintenance
 * **Deployment Strategy:**
- - Initial Deployment: Intended as a decision-support tool for customer relationship teams to prioritize high-risk customers.
- - Maintenance: Regular retraining with updated customer data is recommended to maintain accuracy and relevance.
+  - Initial Deployment: Intended as a decision-support tool for customer relationship teams to prioritize high-risk customers.
+  - Maintenance: Regular retraining with updated customer data is recommended to maintain accuracy and relevance.
 
 * **Model Monitoring:**
- - Performance Tracking: Ongoing monitoring of model performance is necessary to detect and address any prediction accuracy drift.
- - Ethical Monitoring: Continuously review the model’s outputs to ensure they remain fair and unbiased, making updates as needed.
+  - Performance Tracking: Ongoing monitoring of model performance is necessary to detect and address any prediction accuracy drift.
+  - Ethical Monitoring: Continuously review the model’s outputs to ensure they remain fair and unbiased, making updates as needed.
 
 ## Caveats and Recommendations
 * **Model Limitations:** SVMs may require substantial computational resources and parameter tuning. For complex datasets, exploring alternative models like Random Forests or Neural Networks might be beneficial.

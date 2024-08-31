@@ -1,13 +1,6 @@
 # Classification Report
 
-              precision    recall  f1-score   support
-
-           0       0.84      0.91      0.88      1539
-           1       0.69      0.55      0.61       574
-
-    accuracy                           0.81      2113
-   macro avg       0.77      0.73      0.74      2113
-weighted avg       0.80      0.81      0.80      2113
+![image](https://github.com/user-attachments/assets/edc22a0d-7574-4a9b-8a42-9958160feb92)
 
 This classification report provides a summary of the performance of a Logistic Regression model applied to a customer churn dataset.
 

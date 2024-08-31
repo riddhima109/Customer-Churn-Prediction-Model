@@ -108,5 +108,3 @@ The confusion matrix shows that the KNN model performs reasonably well in predic
 ### **Conclusion:**
 
 The ROC AUC score of 0.798 reflects a decent performance of the KNN model in distinguishing between churned and non-churned customers. While it shows that the model is reasonably effective, it also indicates that there may be better alternatives or further optimization needed to enhance its predictive capabilities, particularly in applications where accurate churn prediction is crucial.
-
--
